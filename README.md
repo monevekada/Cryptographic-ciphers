@@ -1,2 +1,3 @@
 # Cryptographic-ciphers
-Some old programmed cryptographic ciphers for an university course
+
+Данные шифры принимают на вход текст любой длины, шифруют его, расшифровывают, а затем выводят результаты на экран (или в файл).
